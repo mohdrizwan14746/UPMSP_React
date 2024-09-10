@@ -11,7 +11,7 @@ const RegisterdDetails = () => {
         <div id='DetailsCont'>
         <h3 id='headRegDetails'> Registerd Details</h3>
         <table >
-            <tr><td colSpan={2}><p>( Save creadential for login )</p></td></tr>
+            <tr><td colSpan={2}><p>( Save creadential for login later )</p></td></tr>
             <tr>
                 <td >
                <p>Registration No :</p>
