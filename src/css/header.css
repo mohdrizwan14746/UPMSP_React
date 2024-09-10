@@ -1,0 +1,100 @@
+/* .headerContainer{
+    color: #f9f4f4;
+    padding: 10px 20px;
+    position: fixed;
+    box-shadow: 0 4px 8px rgba(6, 6, 6, 0.5);
+    top: 0;
+    left: 0;
+    background-color: #1F3F49;
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#0E1C26", endColorstr="#2A454B", GradientType=1 ); 
+     height: auto;
+    width: 100%;
+    z-index: 1;
+   /* box-shadow:  5px 5px 15px #f480d3; */
+/* }
+.brandContainer{
+    width: 30%;
+}
+.navigationMenu{
+    width: 70%;
+}
+.brandLogo{
+    width: 50px;
+    height: 50px;
+}
+.linkClass{
+    color: #f9f4f4;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    padding: 5px;
+    
+    /* box-shadow: 2px 2px 5px #f480d3; */
+
+
+/* .linkClass:hover{
+    background-color: #2A4D57;
+    transition: background-color 0.5s ease;
+} */ 
+
+.Navbar{
+    top: 0;
+    left: 0;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    position: fixed;
+    z-index: 1;
+    background-color: #1F3F49;
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#0E1C26", endColorstr="#2A454B", GradientType=1 ); 
+}
+.Navbar img{
+    width: 50px;
+    height: 50px;
+    float: left;
+    
+}
+.Heading{
+    float: left;
+    margin-left: 15px;
+}
+span{
+    margin: 1 20px;
+    font-size: 28px;
+    cursor: pointer;
+    display: none;   
+}
+.menubar{
+   text-align: right;
+}
+ul li{
+    display: inline-block;
+    margin: 15px;
+    list-style: none;
+}
+.linkClass{
+    color: #f9f4f4;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    padding: 5px;
+}
+.linkClass:hover{
+    padding: 10px;
+    background-color: #2A4D57;
+    transition: background-color 0.5s ease;
+}
+
+@media only screen and (max-width:770px) {
+    ul li{
+        display:block;        
+}
+span{
+    display: block;
+}
+ul{
+    display: none;
+}
+}

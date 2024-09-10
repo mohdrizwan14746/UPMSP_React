@@ -1,0 +1,13 @@
+.main-container{
+    background-color: rgb(255, 255, 255);
+    height: 100vh;
+}
+
+.code404{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.img404{
+    width: 50%;
+    height: 50vh;
+}
